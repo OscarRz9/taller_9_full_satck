@@ -1,0 +1,26 @@
+div{
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 400px;
+    background-color: rgb(201, 144, 212);
+}
+div nav ul{
+    display: flex;
+    gap: 45px;
+    list-style: none;
+}
+div nav ul li{
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
+}
+.button1:hover{
+    background-color: blue;
+}
+.button2:hover{
+    background-color: blue;
+}
+.button3:hover{
+    background-color: blue;
+}
