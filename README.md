@@ -21,5 +21,8 @@
 <h2>Punto 4: Títulos</h2>
 <img src="./public/images/punto4.png" alt="Títulos">
 
-<h3>Punto 5: Párrafos</h2>
+<h2>Punto 5: Párrafos</h2>
 <img src="./public/images/parrafo.png" alt="Párrafos">
+
+<h2>Punto 6: Enlaces<h2>
+<img src="./public/images/enlaces.png" alt="Enlaces">
