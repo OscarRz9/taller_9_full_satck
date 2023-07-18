@@ -29,3 +29,6 @@
 
 <h2>Punto 7-8: Barra de navegacón</h2>
 <img src="./public/images/barra-nav.png" alt="barra-navegación">
+
+<h2>Punto 9: Tabla</h2>
+<img src="./public/images/tabla.png" alt="tabla">
